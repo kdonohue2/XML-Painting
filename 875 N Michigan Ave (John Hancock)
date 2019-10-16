@@ -4,4 +4,8 @@
       <altname>John Hancock Tower</altname>
     <type>Building</type>
       <subtype>Skyscrapper</subtype>
+    <city>Chicago</city>
+      <state>Illinois</state>
+      <country>United States</country>
+    
         
