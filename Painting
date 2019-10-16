@@ -3,7 +3,9 @@
     <object>Painting</object>
     <title>Arnolfini Portrait</title>
     <creator>Jan van Eyck</creator>
-    <location>National Gallery in London</location>
+    <location>National Gallery</location>
+        <city>London</city>
+        <country>England</country>
     <history> </history>
     <description>15th century portrait of a couple in their bed-chamber. Famous for a mirror on the back wall of the painting, 
     detailing both the scenes of Christ's passion around the edges and reflecting back an image of the  
