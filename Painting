@@ -3,6 +3,7 @@
     <object>Painting</object>
         <canvas></canvas>
     <title>Arnolfini Portrait</title>
+        <titledutch></titledutch>
     <creator>Jan van Eyck</creator>
     <location>National Gallery</location>
         <city>London</city>
