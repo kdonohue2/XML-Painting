@@ -1,3 +1,13 @@
-<xml>
-  <record>
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="christie4.xsl"?>
+  <catalog>
+    <object>Painting</object>
+    <title> </title>
+    <creator>Arnolfini</creator>
+    <location>National Gallery in London</location>
+    <history> </history>
+    <description>15th century portrait of a couple in their bed-chamber. Famous for a mirror on the back wall of the paiting, 
+    detailing both the scenes of Christ's passion around the edges and reflecting back an image of the  
+    painter himself</description>
+    <othermetadata> </othermetadata>
     
