@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
   <catalog>
     <object>Painting</object>
+        <canvas></canvas>
     <title>Arnolfini Portrait</title>
     <creator>Jan van Eyck</creator>
     <location>National Gallery</location>
