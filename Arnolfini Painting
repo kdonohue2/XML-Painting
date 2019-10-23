@@ -14,3 +14,11 @@
     painter himself</description>
     <subject>Marriage</subject>
     <movement>Northern Renaissance</movement>
+    
+    <xsl:apply-templates select="(ancestor::w:p)/.." mode="backout" />
+    <xsl:apply-templates select="ancestor::w:p[1]/.." mode="backout" />
+    <xsl:template match="node()" mode="backout">
+   <xsl:text>backout matched a </xsl:text>
+   <xsl:value-of select="name()"/>
+   <xsl:text> element.</xsl:text>
+</xsl:template>
