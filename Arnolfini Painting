@@ -22,3 +22,6 @@
    <xsl:value-of select="name()"/>
    <xsl:text> element.</xsl:text>
 </xsl:template>
+    
+    <xsl>
+    </xsl>
